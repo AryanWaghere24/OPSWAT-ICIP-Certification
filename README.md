@@ -128,27 +128,27 @@ After completing this course, you should understand:
 
 <!-- Add your personal notes below -->
 
-- The 16 sectors weren't just a list to memorize — each one has a 
+- The 16 sectors weren't just a list to memorize - each one has a 
   real dependency on the others. If one goes down, others follow.
 
-- The Triton malware case (2017) was the most alarming — it wasn't 
+- The Triton malware case (2017) was the most alarming - it wasn't 
   built to steal data, it was built to cause physical explosions.
 
 - Colonial Pipeline (2021) showed that ransomware isn't just an IT 
-  problem anymore — it shut down fuel for millions of people.
+  problem anymore - it shut down fuel for millions of people.
 
-- Energy and Communications being "enabling functions" makes sense — 
+- Energy and Communications being "enabling functions" makes sense - 
   nothing else works without them.
 
 - Surprised to learn that 80%+ of energy infrastructure is privately 
-  owned — meaning security depends heavily on private companies, not 
+  owned - meaning security depends heavily on private companies, not 
   just the government.
 
 - The shift from isolated CI systems to internet-connected ones is 
   the root cause of most modern CI vulnerabilities.
 
 - Takeaway: OT/ICS security is where traditional IT security meets 
-  the physical world — and the stakes are much higher.
+  the physical world - and the stakes are much higher.
 ---
 
 ## Resources - 
