@@ -165,7 +165,7 @@ After completing this course, you should understand:
 > OPSWAT ICIP Certification — Issued [May 2026]
 
 <!-- Add your certificate image or link here -->
-![Description](image-url)
+![Certificate](paste-url-here)
 
 ---
 
